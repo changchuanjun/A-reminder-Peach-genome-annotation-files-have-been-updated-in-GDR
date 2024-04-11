@@ -1,5 +1,5 @@
-# A reminder：Peach genome annotation files have been updated in GDR
-A reminder: Peach genome annotation files have been updated.
+# A reminder：Peach genome annotation files have been updated in GDR(Genome Database for Rosaceae,https://www.rosaceae.org/)
+A reminder: Peach genome annotation file(Prunus persica Genome v2.0.a1) have been updated.
 
 When I used the peach (Prunus persica) genome and the corresponding annotation file (Prunus persica Genome v2.0.a1, https://www.rosaceae.org/species/prunus_persica/genome_v2.0.a1) to run my RNAseq pipeline, I noticed that some genes disappeared from my raw gene expression counts matrix compare to using Phytozome database's peach genome and corresponding annotation file (Prunus persica v2.1, https://phytozome-next.jgi.doe.gov/) . Initially, I assumed these genes were not expressed. However, this assumption was incorrect; even if a gene is not expressed, it should show a value of 0 in the raw gene expression counts matrix rather than being absent.To investigate this issue, I check their annotation files. Interestingly, I found that these genes had exon information in Phytozome's annotation file but were absent in GDR's annotation file. This discrepancy explains why these genes could not be included in the calculation of gene expression counts due to the lack of exon information in GDR.
 
