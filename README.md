@@ -6,3 +6,9 @@ When I used the peach (Prunus persica) genome and the corresponding annotation f
 In my analysis, approximately 4,500 genes lacked exon information in GDR when compared to Phytozome. Then I wrote a letter to the GDR team to explain the problem.Finally,they made the "Ppersica_298_v2.1.gene.gff3.gz" file from Phytozome available in GDR under the name "Prunus_persica_v2.0.a1.gene_2015Update.gff3.gz.". However, since the file "Prunus_persica_v2.0.a1.gene_2015Update.gff3.gz" has just been uploaded to GDR and is also a 'Genes, CDS, 5' UTR, 3'UTR locations (GFF3 file)', which is the same type as the file listed above it, the only distinguishing factor in the names is '2015Update'. This may pose a challenge for users to determine which file to use based on the names alone. 
 
 To avoid confusion, I suggest them to  report the problem in a prominent position on the GDR, but they did not reply and operate.
+
+![536109cd9af4099f7a38b0bb0a6e914](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/15e7eeca-1fc1-448b-942d-9a27bb303375)
+
+![1712800779212](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/313486ff-03b3-4f1f-bbb3-2c177023c2bd)
+
+![60d01856f9a1d96091b821671618b41](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/886ee910-30d4-4360-a898-08f3468b4e60)
