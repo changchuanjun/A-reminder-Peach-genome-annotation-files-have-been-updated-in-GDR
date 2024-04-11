@@ -7,8 +7,9 @@ In my analysis, approximately 4,500 genes lacked exon information in GDR when co
 
 To avoid confusion, I suggest them to  report the problem in a prominent position on the GDR, but they did not reply and operate.
 
-![536109cd9af4099f7a38b0bb0a6e914](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/15e7eeca-1fc1-448b-942d-9a27bb303375)
+![image](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/8416e663-6633-40fd-ba60-ac05032dcc3d)
 
-![1712800779212](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/313486ff-03b3-4f1f-bbb3-2c177023c2bd)
+![image](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/4f8a750c-28ac-450e-8f07-27263c9a7cc1)
 
-![60d01856f9a1d96091b821671618b41](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/886ee910-30d4-4360-a898-08f3468b4e60)
+![image](https://github.com/changchuanjun/A_reminder_in_GDR/assets/155738984/b16ca7ad-4809-441b-83dc-40e3969b11e5)
+
