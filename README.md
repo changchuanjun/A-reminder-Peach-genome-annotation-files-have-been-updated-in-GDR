@@ -13,7 +13,6 @@ However, since the file "Prunus_persica_v2.0.a1.gene_2015Update.gff3.gz" has jus
 
 For files of the 'Genes, CDS, 5' UTR, 3'UTR locations (GFF3 file)' type, 'Prunus_persica_v2.0.a1.gene_2015Update.gff3.gz' is recommended as the first choice.(https://www.rosaceae.org/rosaceae_downloads/Prunus_persica/Prunus_persica-genome.v2.0.a1/genes/Ppersica_298_v2.1.gene_exons.gff3.gz)
 
-To avoid confusion, I suggest GDR to  report the problem in a prominent position on the GDR, but they did not reply and operate.
 
 In addition, I speculated that probably many researchers had met the same question when used the RNAseq techology to conduct scientific research using GDR's genome and previous annotation file, but if they didn't use the Phytozome database for peach's genome files and annotated files, they may not have noticed the problem because people believe in the professionalism of the GDR database.It is also due to the professional nature of the GDR database that the reference genome and annotation file are used in many literatures. if they also miss the expression information of these genes, there is a risk that the expression information of genes in some regulatory pathways will be missed, and even new genes will not be mined. I hope people can pay attention to this problem.
 
